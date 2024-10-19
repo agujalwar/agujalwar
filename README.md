@@ -1,3 +1,5 @@
+![Background](https://github.com/agujalwar/agujalwar/blob/main/gitHubBG.jpg)
+
 ## Hi there 👋
 I'm Ashwini Gujalwar
 
